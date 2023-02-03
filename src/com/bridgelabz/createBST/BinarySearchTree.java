@@ -150,7 +150,7 @@ public class BinarySearchTree {
         else
             System.out.println("The binary tree is not full");
 
-        tree.searchElement(tree.root, 95);
+        tree.searchElement(tree.root, 63);
 
         if (flag == true)
             System.out.println("Element is present in the binary tree");
